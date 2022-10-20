@@ -23,7 +23,7 @@ First of all, I want you guys to download the 2 projects from this repository. S
   And You can start the front using these commands:  
   `npm install` and `npm run start`
 
-# 💬 We're here to help!
+# 💬 I'm here to help!
 
 If you have a question how to test this framework, please don't hestiate to send mail to here : zinlingzhi@gmail.com
 
